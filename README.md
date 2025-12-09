@@ -1,1 +1,2 @@
-# Brain-MRI-Binary-Classificatin-PyTorch-ViT-
+# 是否有腦部腫瘤的預測
+
