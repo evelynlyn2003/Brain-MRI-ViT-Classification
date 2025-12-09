@@ -54,10 +54,12 @@ F1 score:    0.9425287356321839
 
 #### 3. confusion_matrix
 [[30  5]
+
  [ 0 41]]
+ 
  [confusion_matrix](./image/腫瘤混淆矩陣.png)
 
 
 #### 4.ROC Curve
-[ROC Curve](./image/ROC cruve.png)
+[ROC Curve](./image/ROC-cruve.png)
 #### 5.AUC :0.9679
