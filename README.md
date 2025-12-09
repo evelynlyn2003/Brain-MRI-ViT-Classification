@@ -4,7 +4,7 @@
 ### A. 數據 (Dataset & DataLoader)
 
 #### 1. 資料來源
-[https://drive.google.com/uc?id=18RfTvv5NBKuUgMDJjxXb7BLYz31sT_aH](./brain)
+[https://drive.google.com/uc?id=18RfTvv5NBKuUgMDJjxXb7BLYz31sT_aH]
 
 
 #### 2. 資料規模
@@ -57,5 +57,5 @@ F1 score:    0.9425287356321839
  [ 0 41]]
 
 #### 4.ROC Curve
-
+[ROC Curve](./image)
 #### 5.AUC :0.9679
